@@ -180,4 +180,8 @@ Retrain afterwards (`python train_model.py`).
 | `webcam_test.py` | camera and hand-tracking check |
 | `asl_model.pth` | trained model used by default |
 | `hand_landmarker.task` | MediaPipe hand tracking model |
+<<<<<<< HEAD
 | `data/takes`, `data/test` | recorded training and test takes |
+=======
+| `data/takes`, `data/test` | recorded training and test takes |
+>>>>>>> 1f772e4 (Initial commit: ASL sign language model code and setup)
